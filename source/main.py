@@ -72,7 +72,7 @@ def write_backup_data(arguments, backup_data, text_file):
         sys.stdout = text_file
         # Write a header for the file.
         print("Coffee Reading (v1.0.0)")
-        print("Created by NoahAbc12345.\n")
+        print("Created by Nightkingale.\n")
         print("Please do not share any values obtained from this program!")
         print("Many are illegal to share due to copyright law and/or unique"
             + " to your own console!")
@@ -242,7 +242,7 @@ arguments = sys.argv
 backup_file = arguments[-1]
 # Print when the program is started.
 print("Coffee Reading (v1.0.0)")
-print("Created by NoahAbc12345.\n")
+print("Created by Nightkingale.\n")
 print("Please do not share any values obtained from this program!")
 print("Many are illegal to share due to copyright law and/or unique "
     + "to your own console!")
