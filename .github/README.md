@@ -13,5 +13,5 @@ A Wii U OTP or SEEPROM file is most commonly obtained when following our [hackin
 * The ability to save a report of obtained values is also available. Provide `--save` (or `-s`) as an argument to the program to do so. A text file named with a timestamp will be generated in the same directory as the tool. This can be used to refer to certain values without having to run the program again in the future.
 
 Example inputs may include:
-* `Klefki.exe -s -u otp.bin`
-* `./Klefki -s -u otp.bin`
+* `Coffee-Reading.exe -s -u otp.bin`
+* `./Coffee-Reading -s -u otp.bin`
